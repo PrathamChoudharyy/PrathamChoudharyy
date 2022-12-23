@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @PrathamChoudhary
-- [![Pratham Choudhary's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathamChoudharyy)](https://github.com/PrathamChoudharyy/github-readme-stats)
+- [![Pratham Choudhary's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrathamChoudharyy)](https://github.com/PrathamChoudharyy/github-readme-stats&show_icons=true&theme=radical)
